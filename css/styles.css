@@ -12,6 +12,8 @@
     background-color: rgb(198,56,19);
     color: rgb(253, 219, 187);
 }
+
+
 /*ggsalad*/
 
 .ggpage{
@@ -36,9 +38,34 @@
 
 /*tofu*/
 
+.tfpage{
+    background-color: rgb(197,169,154);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.litf, .tfp{
+    background-color:  rgb(240, 120, 83);
+    color:  rgb(254,237,217);
+    text-shadow: 1px 2px 0 rgb(197,169,154);
+    font-weight: 800;
+
+}
+
+.tfheader{
+    color: rgb(225,225,225);
+    text-shadow: 1px 2px 0 #000;
+
+}
+
+#tofulink{
+    color:rgb(244,120,5);
+    text-shadow: 1px 1px 0 rgb(89, 75, 68);
+}
+
 /*sourdough*/
 
 .bbpage{
+    font-family: 'Courier New', Courier, monospace
     background-color: ;
 
 }
