@@ -1,0 +1,65 @@
+/*index*/
+
+.page{
+    background-color: rgb(62,19,6);
+    font-family: 'Courier New', Courier, monospace;
+}
+.header{
+    color: rgb(253, 219, 187);
+}
+
+.list{
+    background-color: rgb(198,56,19);
+    color: rgb(253, 219, 187);
+}
+/*ggsalad*/
+
+.ggpage{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(115,155,58);
+    
+}
+#ggsalad{
+    color: rgb(208,222,11);
+}
+.ggheader{
+    color:rgb(250,211,4) ;
+    text-shadow: 1px 2px 0 #000;
+}
+
+.ggli, .gginfo{
+    background-color: rgb(238,162,1);
+    color: rgb(222,227,233);
+    text-shadow: 1px 1px 0 rgb(72, 98, 35);
+    font-weight: 800;
+}
+
+/*tofu*/
+
+/*sourdough*/
+
+.bbpage{
+    background-color: ;
+
+}
+.libb{
+
+}
+
+
+/*all links*/
+a{
+    font-weight: 800;
+   color: rgb(253, 219, 187);
+   
+}
+
+a:visited {  
+    color: (253, 219, 187);
+}
+a:hover { 
+    color: (253, 219, 187);
+}
+
+
+
