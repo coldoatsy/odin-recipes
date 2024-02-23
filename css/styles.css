@@ -3,9 +3,11 @@
 .page{
     background-color: rgb(62,19,6);
     font-family: 'Courier New', Courier, monospace;
+    
 }
 .header{
     color: rgb(253, 219, 187);
+    text-shadow: 1px 2px 0 rgb(179,143,67);
 }
 
 .list{
@@ -18,7 +20,7 @@
 
 .ggpage{
     font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(115,155,58);
+    background-color: rgb(72, 98, 35);
     
 }
 #ggsalad{
@@ -30,9 +32,9 @@
 }
 
 .ggli, .gginfo{
-    background-color: rgb(238,162,1);
-    color: rgb(222,227,233);
-    text-shadow: 1px 1px 0 rgb(72, 98, 35);
+    color:  rgb(238,162,1) ;
+    background-color:  rgb(115,155,58);
+    text-shadow: 1px 1px 0 #000 ;
     font-weight: 800;
 }
 
@@ -65,12 +67,27 @@
 /*sourdough*/
 
 .bbpage{
-    font-family: 'Courier New', Courier, monospace
-    background-color: ;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(176,104,51);
+}
+
+.libb, .bbp{
+    background-color:rgb(249,224,186);
+    color:  rgb(92,29,7);
+    text-shadow: 1px 1px 0 rgb(197,169,154);
+    font-weight: 800;
 
 }
-.libb{
 
+.bbheader{
+    color: rgb(225,225,225);
+    text-shadow: 1px 2px 0 #000;
+
+}
+
+#bblink{
+    color:rgb(249,224,217);
+    text-shadow: 1px 1px 0 rgb(89, 75, 68);
 }
 
 
